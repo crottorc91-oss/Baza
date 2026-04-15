@@ -1,709 +1,707 @@
-{
-  "games": [
-    {
-      "title": "Adventures of Lolo 2 [RUS]",
-      "url": "Adventures of Lolo 2 [RUS].zip",
-      "image": "Adventures of Lolo 2 [RUS].png"
-    },
-    {
-      "title": "Aladdin (U) [T-Rus uBAH009 (07.03.2019)]",
-      "url": "Aladdin (U) [T-Rus uBAH009 (07.03.2019)].zip",
-      "image": "Aladdin (U) [T-Rus uBAH009 (07.03.2019)].png"
-    },
-    {
-      "title": "Baseball Stars Color (W) [!]",
-      "url": "Baseball Stars Color (W) [!].zip",
-      "image": "Baseball Stars Color (W) [!].png"
-    },
-    {
-      "title": "Batman - Return of the Joker [RUS]",
-      "url": "Batman - Return of the Joker [RUS].zip",
-      "image": "Batman - Return of the Joker [RUS].png"
-    },
-    {
-      "title": "Batman - The Video Game [RUS]",
-      "url": "Batman - The Video Game [RUS].zip",
-      "image": "Batman - The Video Game [RUS].png"
-    },
-    {
-      "title": "Batman Returns [RUS]",
-      "url": "Batman Returns [RUS].zip",
-      "image": "Batman Returns [RUS].png"
-    },
-    {
-      "title": "Battletoads & Double Dragon - The Ultimate Team (U) [!] [T+Rus_Shedevr] игру перевёл Gottax",
-      "url": "Battletoads & Double Dragon - The Ultimate Team (U) [!] [T+Rus_Shedevr] игру перевёл Gottax.zip",
-      "image": "Battletoads & Double Dragon - The Ultimate Team (U) [!] [T+Rus_Shedevr] игру перевёл Gottax.png"
-    },
-    {
-      "title": "Big Bang Pro Wrestling (W) [!]",
-      "url": "Big Bang Pro Wrestling (W) [!].zip",
-      "image": "Big Bang Pro Wrestling (W) [!].png"
-    },
-    {
-      "title": "Biker Mice from Mars",
-      "url": "Biker Mice from Mars.zip",
-      "image": "Biker Mice from Mars.png"
-    },
-    {
-      "title": "Bio Hazard (Unl) [T+Rus uBAH009+LANCUSTER (10.12.2019)]",
-      "url": "Bio Hazard (Unl) [T+Rus uBAH009+LANCUSTER (10.12.2019)].zip",
-      "image": "Bio Hazard (Unl) [T+Rus uBAH009+LANCUSTER (10.12.2019)].png"
-    },
-    {
-      "title": "Biomotor Unitron (UE) [!]",
-      "url": "Biomotor Unitron (UE) [!].zip",
-      "image": "Biomotor Unitron (UE) [!].png"
-    },
-    {
-      "title": "Bishoujo Senshi Sailor Moon - Another Story (J) [T-Rus GrekRus (11.12.2013)]",
-      "url": "Bishoujo Senshi Sailor Moon - Another Story (J) [T-Rus GrekRus (11.12.2013)].zip",
-      "image": "Bishoujo Senshi Sailor Moon - Another Story (J) [T-Rus GrekRus (11.12.2013)].png"
-    },
-    {
-      "title": "Bomberman (U) [T-Rus] [!]",
-      "url": "Bomberman (U) [T-Rus] [!].zip",
-      "image": "Bomberman (U) [T-Rus] [!].png"
-    },
-    {
-      "title": "Boogerman",
-      "url": "Boogerman.zip",
-      "image": "Boogerman.png"
-    },
-    {
-      "title": "Bubble Bobble Part 2",
-      "url": "Bubble Bobble Part 2.zip",
-      "image": "Bubble Bobble Part 2.png"
-    },
-    {
-      "title": "Bubble Bobble [RUS]",
-      "url": "Bubble Bobble [RUS].zip",
-      "image": "Bubble Bobble [RUS].png"
-    },
-    {
-      "title": "Bust-A-Move Pocket (UE) (Prototype)",
-      "url": "Bust-A-Move Pocket (UE) (Prototype).zip",
-      "image": "Bust-A-Move Pocket (UE) (Prototype).png"
-    },
-    {
-      "title": "Castlevania - Aria of Sorrow (U) [T+Rus1.0_Shedevr]",
-      "url": "Castlevania - Aria of Sorrow (U) [T+Rus1.0_Shedevr].zip",
-      "image": "Castlevania - Aria of Sorrow (U) [T+Rus1.0_Shedevr].png"
-    },
-    {
-      "title": "Castlevania - Circle of the Moon (U) [T+Rus1.0_Magic Team]",
-      "url": "Castlevania - Circle of the Moon (U) [T+Rus1.0_Magic Team].zip",
-      "image": "Castlevania - Circle of the Moon (U) [T+Rus1.0_Magic Team].png"
-    },
-    {
-      "title": "Castlevania - Dracula X",
-      "url": "Castlevania - Dracula X.zip",
-      "image": "Castlevania - Dracula X.png"
-    },
-    {
-      "title": "Castlevania - Harmony of Dissonance (E) [T+Rus1.2_Chief-NET]",
-      "url": "Castlevania - Harmony of Dissonance (E) [T+Rus1.2_Chief-NET].zip",
-      "image": "Castlevania - Harmony of Dissonance (E) [T+Rus1.2_Chief-NET].png"
-    },
-    {
-      "title": "Castlevania II - Simon's Quest (USA)",
-      "url": "Castlevania II - Simon's Quest (USA).zip",
-      "image": "Castlevania II - Simon's Quest (USA).png"
-    },
-    {
-      "title": "Chip 'n Dale 2 [RUS]",
-      "url": "Chip 'n Dale 2 [RUS].zip",
-      "image": "Chip 'n Dale 2 [RUS].png"
-    },
-    {
-      "title": "Chip n Dale Rescue Rangers 2 (U) [T-Rus] [!] by Shedevr",
-      "url": "Chip n Dale Rescue Rangers 2 (U) [T-Rus] [!] by Shedevr.zip",
-      "image": "Chip n Dale Rescue Rangers 2 (U) [T-Rus] [!] by Shedevr.png"
-    },
-    {
-      "title": "Conquest of the Crystal Palace [RUS]",
-      "url": "Conquest of the Crystal Palace [RUS].zip",
-      "image": "Conquest of the Crystal Palace [RUS].png"
-    },
-    {
-      "title": "Contra III - The Alien Wars",
-      "url": "Contra III - The Alien Wars.zip",
-      "image": "Contra III - The Alien Wars.png"
-    },
-    {
-      "title": "Cotton - Fantastic Night Dreams (As)",
-      "url": "Cotton - Fantastic Night Dreams (As).zip",
-      "image": "Cotton - Fantastic Night Dreams (As).png"
-    },
-    {
-      "title": "Crash Bandicoot - The Huge Adventure (U) [T+Rus_MagicGame]",
-      "url": "Crash Bandicoot - The Huge Adventure (U) [T+Rus_MagicGame].zip",
-      "image": "Crash Bandicoot - The Huge Adventure (U) [T+Rus_MagicGame].png"
-    },
-    {
-      "title": "Crystalis [RUS]",
-      "url": "Crystalis [RUS].zip",
-      "image": "Crystalis [RUS].png"
-    },
-    {
-      "title": "Dark Arms - Beast Buster 1999 (W) [!]",
-      "url": "Dark Arms - Beast Buster 1999 (W) [!].zip",
-      "image": "Dark Arms - Beast Buster 1999 (W) [!].png"
-    },
-    {
-      "title": "Darkwing Duck [RUS]",
-      "url": "Darkwing Duck [RUS].zip",
-      "image": "Darkwing Duck [RUS].png"
-    },
-    {
-      "title": "Delta Warp (J) [!]",
-      "url": "Delta Warp (J) [!].zip",
-      "image": "Delta Warp (J) [!].png"
-    },
-    {
-      "title": "Donkey Kong 3 [RUS]",
-      "url": "Donkey Kong 3 [RUS].zip",
-      "image": "Donkey Kong 3 [RUS].png"
-    },
-    {
-      "title": "Donkey Kong Country (U) (V1.2) [T-Rus1.0 Chief-Net (31.12.2010)]",
-      "url": "Donkey Kong Country (U) (V1.2) [T-Rus1.0 Chief-Net (31.12.2010)].zip",
-      "image": "Donkey Kong Country (U) (V1.2) [T-Rus1.0 Chief-Net (31.12.2010)].png"
-    },
-    {
-      "title": "Donkey Kong Country 2 (U) [T+Rus_MagicGame]",
-      "url": "Donkey Kong Country 2 (U) [T+Rus_MagicGame].zip",
-      "image": "Donkey Kong Country 2 (U) [T+Rus_MagicGame].png"
-    },
-    {
-      "title": "Double Dragon 3 - Sacred Stones, The [RUS]",
-      "url": "Double Dragon 3 - Sacred Stones, The [RUS].zip",
-      "image": "Double Dragon 3 - Sacred Stones, The [RUS].png"
-    },
-    {
-      "title": "Dr Mario (J) (NP) [T+Rus Multisoft (19.01.2010)]",
-      "url": "Dr Mario (J) (NP) [T+Rus Multisoft (19.01.2010)].zip",
-      "image": "Dr Mario (J) (NP) [T+Rus Multisoft (19.01.2010)].png"
-    },
-    {
-      "title": "Dragon Quest 5 - Tenkuu no Hanayome (Japan, En)",
-      "url": "Dragon Quest 5 - Tenkuu no Hanayome (Japan, En).zip",
-      "image": "Dragon Quest 5 - Tenkuu no Hanayome (Japan, En).png"
-    },
-    {
-      "title": "Dragon Quest 6 - Maboroshi no Daichi (Japan, En)",
-      "url": "Dragon Quest 6 - Maboroshi no Daichi (Japan, En).zip",
-      "image": "Dragon Quest 6 - Maboroshi no Daichi (Japan, En).png"
-    },
-    {
-      "title": "Duck_Tales_2_Deluxe_2014_RUS_Fixed-27.01.2015",
-      "url": "Duck_Tales_2_Deluxe_2014_RUS_Fixed-27.01.2015.zip",
-      "image": "Duck_Tales_2_Deluxe_2014_RUS_Fixed-27.01.2015.png"
-    },
-    {
-      "title": "Earthworm Jim 2 (E) (M5) [T+Rus]",
-      "url": "Earthworm Jim 2 (E) (M5) [T+Rus].zip",
-      "image": "Earthworm Jim 2 (E) (M5) [T+Rus].png"
-    },
-    {
-      "title": "Evolution - Eternal Dungeons (U) [T+Fre0.3_Fry]",
-      "url": "Evolution - Eternal Dungeons (U) [T+Fre0.3_Fry].zip",
-      "image": "Evolution - Eternal Dungeons (U) [T+Fre0.3_Fry].png"
-    },
-    {
-      "title": "FF_Shantae_Advance_RUS",
-      "url": "FF_Shantae_Advance_RUS.zip",
-      "image": "FF_Shantae_Advance_RUS.png"
-    },
-    {
-      "title": "Faselei! (UE)",
-      "url": "Faselei! (UE).zip",
-      "image": "Faselei! (UE).png"
-    },
-    {
-      "title": "Felix the Cat [RUS]",
-      "url": "Felix the Cat [RUS].zip",
-      "image": "Felix the Cat [RUS].png"
-    },
-    {
-      "title": "Final Fantasy II (U) (V1.1) [T+Rus Borisov (04.06.2010)]",
-      "url": "Final Fantasy II (U) (V1.1) [T+Rus Borisov (04.06.2010)].zip",
-      "image": "Final Fantasy II (U) (V1.1) [T+Rus Borisov (04.06.2010)].png"
-    },
-    {
-      "title": "Final Fantasy III (U) (V1.0) [!] [T+Rus_Magic Team]",
-      "url": "Final Fantasy III (U) (V1.0) [!] [T+Rus_Magic Team].zip",
-      "image": "Final Fantasy III (U) (V1.0) [!] [T+Rus_Magic Team].png"
-    },
-    {
-      "title": "Final_Fantasy_Tactics_Advance",
-      "url": "Final_Fantasy_Tactics_Advance.zip",
-      "image": "Final_Fantasy_Tactics_Advance.png"
-    },
-    {
-      "title": "Flashback - The Quest for Identity (E) (M2) [T+Rus v0.10_Dennis]",
-      "url": "Flashback - The Quest for Identity (E) (M2) [T+Rus v0.10_Dennis].zip",
-      "image": "Flashback - The Quest for Identity (E) (M2) [T+Rus v0.10_Dennis].png"
-    },
-    {
-      "title": "Golden Sun (UE) [T+Rus_DobryeLudi]",
-      "url": "Golden Sun (UE) [T+Rus_DobryeLudi].zip",
-      "image": "Golden Sun (UE) [T+Rus_DobryeLudi].png"
-    },
-    {
-      "title": "Goof Troop (U) [T-Rus uBAH009 (29.03.2019)]",
-      "url": "Goof Troop (U) [T-Rus uBAH009 (29.03.2019)].zip",
-      "image": "Goof Troop (U) [T-Rus uBAH009 (29.03.2019)].png"
-    },
-    {
-      "title": "Grand Theft Auto Advance (E) (M5) [T-Rus_Kudos]",
-      "url": "Grand Theft Auto Advance (E) (M5) [T-Rus_Kudos].zip",
-      "image": "Grand Theft Auto Advance (E) (M5) [T-Rus_Kudos].png"
-    },
-    {
-      "title": "Gunstar Super Heroes (U) [T+Rus_Kudos]",
-      "url": "Gunstar Super Heroes (U) [T+Rus_Kudos].zip",
-      "image": "Gunstar Super Heroes (U) [T+Rus_Kudos].png"
-    },
-    {
-      "title": "Harry Potter and The Chamber of Secrets  (UE) (M12) [T+Rus1.4_MagicGame][18.01.2013]",
-      "url": "Harry Potter and The Chamber of Secrets  (UE) (M12) [T+Rus1.4_MagicGame][18.01.2013].zip",
-      "image": "Harry Potter and The Chamber of Secrets  (UE) (M12) [T+Rus1.4_MagicGame][18.01.2013].png"
-    },
-    {
-      "title": "Home Alone 2 - Lost in New York (U) [T-Rus uBAH009 (14.06.2017)]",
-      "url": "Home Alone 2 - Lost in New York (U) [T-Rus uBAH009 (14.06.2017)].zip",
-      "image": "Home Alone 2 - Lost in New York (U) [T-Rus uBAH009 (14.06.2017)].png"
-    },
-    {
-      "title": "Jungle Book [RUS]",
-      "url": "Jungle Book [RUS].zip",
-      "image": "Jungle Book [RUS].png"
-    },
-    {
-      "title": "Legend of Zelda - Link to the Past (U) [T+Rus0.98.5 Chief-Net+MagicTeam (18.03.2009)]",
-      "url": "Legend of Zelda - Link to the Past (U) [T+Rus0.98.5 Chief-Net+MagicTeam (18.03.2009)].zip",
-      "image": "Legend of Zelda - Link to the Past (U) [T+Rus0.98.5 Chief-Net+MagicTeam (18.03.2009)].png"
-    },
-    {
-      "title": "Legend of Zelda, The - The Minish Cap (U) [T+Rus1.0_Shedevr] (ZELDA64RUS)",
-      "url": "Legend of Zelda, The - The Minish Cap (U) [T+Rus1.0_Shedevr] (ZELDA64RUS).zip",
-      "image": "Legend of Zelda, The - The Minish Cap (U) [T+Rus1.0_Shedevr] (ZELDA64RUS).png"
-    },
-    {
-      "title": "Legend of the Mystical Ninja, The",
-      "url": "Legend of the Mystical Ninja, The.zip",
-      "image": "Legend of the Mystical Ninja, The.png"
-    },
-    {
-      "title": "Lion King (U) [T+Rus uBAH009 (12.06.2017)]",
-      "url": "Lion King (U) [T+Rus uBAH009 (12.06.2017)].zip",
-      "image": "Lion King (U) [T+Rus uBAH009 (12.06.2017)].png"
-    },
-    {
-      "title": "Magical Quest Starring Mickey Mouse, The",
-      "url": "Magical Quest Starring Mickey Mouse, The.zip",
-      "image": "Magical Quest Starring Mickey Mouse, The.png"
-    },
-    {
-      "title": "Majin Tensei 2 - Spiral Nemesis (Japan, En)",
-      "url": "Majin Tensei 2 - Spiral Nemesis (Japan, En).zip",
-      "image": "Majin Tensei 2 - Spiral Nemesis (Japan, En).png"
-    },
-    {
-      "title": "Mario_Kart_Super_Circuit",
-      "url": "Mario_Kart_Super_Circuit.zip",
-      "image": "Mario_Kart_Super_Circuit.png"
-    },
-    {
-      "title": "Mario_Luigi_Superstar_Saga",
-      "url": "Mario_Luigi_Superstar_Saga.zip",
-      "image": "Mario_Luigi_Superstar_Saga.png"
-    },
-    {
-      "title": "Mega Man 2 [RUS]",
-      "url": "Mega Man 2 [RUS].zip",
-      "image": "Mega Man 2 [RUS].png"
-    },
-    {
-      "title": "Mega Man 3 [RUS]",
-      "url": "Mega Man 3 [RUS].zip",
-      "image": "Mega Man 3 [RUS].png"
-    },
-    {
-      "title": "Mega Man 4 [RUS]",
-      "url": "Mega Man 4 [RUS].zip",
-      "image": "Mega Man 4 [RUS].png"
-    },
-    {
-      "title": "Mega Man 5 [RUS]",
-      "url": "Mega Man 5 [RUS].zip",
-      "image": "Mega Man 5 [RUS].png"
-    },
-    {
-      "title": "Mega Man 6 [RUS]",
-      "url": "Mega Man 6 [RUS].zip",
-      "image": "Mega Man 6 [RUS].png"
-    },
-    {
-      "title": "Mega Man 7 [RUS]",
-      "url": "Mega Man 7 [RUS].zip",
-      "image": "Mega Man 7 [RUS].png"
-    },
-    {
-      "title": "Mega Man X (U) (V1.1) [!] [T+Rus by Tmax]",
-      "url": "Mega Man X (U) (V1.1) [!] [T+Rus by Tmax].zip",
-      "image": "Mega Man X (U) (V1.1) [!] [T+Rus by Tmax].png"
-    },
-    {
-      "title": "Mega Man X2 [RUS]",
-      "url": "Mega Man X2 [RUS].zip",
-      "image": "Mega Man X2 [RUS].png"
-    },
-    {
-      "title": "Mega Man X3 [RUS]",
-      "url": "Mega Man X3 [RUS].zip",
-      "image": "Mega Man X3 [RUS].png"
-    },
-    {
-      "title": "Megaman Zero (U) [T+Rus1.01_Shedevr]",
-      "url": "Megaman Zero (U) [T+Rus1.01_Shedevr].zip",
-      "image": "Megaman Zero (U) [T+Rus1.01_Shedevr].png"
-    },
-    {
-      "title": "Metroid - Zero Mission (U) [T+Rus1.0_Shedevr]",
-      "url": "Metroid - Zero Mission (U) [T+Rus1.0_Shedevr].zip",
-      "image": "Metroid - Zero Mission (U) [T+Rus1.0_Shedevr].png"
-    },
-    {
-      "title": "Metroid Fusion (U) [T+Rus1.0_Shedevr]",
-      "url": "Metroid Fusion (U) [T+Rus1.0_Shedevr].zip",
-      "image": "Metroid Fusion (U) [T+Rus1.0_Shedevr].png"
-    },
-    {
-      "title": "Metroid [RUS]",
-      "url": "Metroid [RUS].zip",
-      "image": "Metroid [RUS].png"
-    },
-    {
-      "title": "Monster in My Pocket [RUS]",
-      "url": "Monster in My Pocket [RUS].zip",
-      "image": "Monster in My Pocket [RUS].png"
-    },
-    {
-      "title": "Monsters Inc. (U) [T+Rus_MagicGame]",
-      "url": "Monsters Inc. (U) [T+Rus_MagicGame].zip",
-      "image": "Monsters Inc. (U) [T+Rus_MagicGame].png"
-    },
-    {
-      "title": "Mortal Kombat 3",
-      "url": "Mortal Kombat 3.zip",
-      "image": "Mortal Kombat 3.png"
-    },
-    {
-      "title": "Mortal Kombat II",
-      "url": "Mortal Kombat II.zip",
-      "image": "Mortal Kombat II.png"
-    },
-    {
-      "title": "Need for Speed - Underground (UE) (M4) [T+Rus_MagicGame]",
-      "url": "Need for Speed - Underground (UE) (M4) [T+Rus_MagicGame].zip",
-      "image": "Need for Speed - Underground (UE) (M4) [T+Rus_MagicGame].png"
-    },
-    {
-      "title": "Nightmare on Elm Street, A [RUS]",
-      "url": "Nightmare on Elm Street, A [RUS].zip",
-      "image": "Nightmare on Elm Street, A [RUS].png"
-    },
-    {
-      "title": "Ogre Battle - The March of the Black Queen",
-      "url": "Ogre Battle - The March of the Black Queen.zip",
-      "image": "Ogre Battle - The March of the Black Queen.png"
-    },
-    {
-      "title": "Pac-Man [RUS]",
-      "url": "Pac-Man [RUS].zip",
-      "image": "Pac-Man [RUS].png"
-    },
-    {
-      "title": "Pink Panther in Pink Goes to Hollywood",
-      "url": "Pink Panther in Pink Goes to Hollywood.zip",
-      "image": "Pink Panther in Pink Goes to Hollywood.png"
-    },
-    {
-      "title": "Pokemon - Emerald Version (UE) [T+Rus0.9b_kozzztya]",
-      "url": "Pokemon - Emerald Version (UE) [T+Rus0.9b_kozzztya].zip",
-      "image": "Pokemon - Emerald Version (UE) [T+Rus0.9b_kozzztya].png"
-    },
-    {
-      "title": "Pokemon - Fire Red Version (U) [T+Rus_Shedevr]",
-      "url": "Pokemon - Fire Red Version (U) [T+Rus_Shedevr].zip",
-      "image": "Pokemon - Fire Red Version (U) [T+Rus_Shedevr].png"
-    },
-    {
-      "title": "Pokemon - Sapphire Version (U) [T+Rus_Gektor]",
-      "url": "Pokemon - Sapphire Version (U) [T+Rus_Gektor].zip",
-      "image": "Pokemon - Sapphire Version (U) [T+Rus_Gektor].png"
-    },
-    {
-      "title": "Rayman - Raving Rabbids (U) (M3) [T+Rus_UniGame]",
-      "url": "Rayman - Raving Rabbids (U) (M3) [T+Rus_UniGame].zip",
-      "image": "Rayman - Raving Rabbids (U) (M3) [T+Rus_UniGame].png"
-    },
-    {
-      "title": "Rayman Advance [T+Rus_MagicGame]",
-      "url": "Rayman Advance [T+Rus_MagicGame].zip",
-      "image": "Rayman Advance [T+Rus_MagicGame].png"
-    },
-    {
-      "title": "RoboCop 2 [RUS]",
-      "url": "RoboCop 2 [RUS].zip",
-      "image": "RoboCop 2 [RUS].png"
-    },
-    {
-      "title": "Rockman Battle & Fighters (J) [T-Eng0.05_LFont]",
-      "url": "Rockman Battle & Fighters (J) [T-Eng0.05_LFont].zip",
-      "image": "Rockman Battle & Fighters (J) [T-Eng0.05_LFont].png"
-    },
-    {
-      "title": "SNK Vs. Capcom - The Match of The Millennium (W) [T+Chi_JIAN TI&YULIANGMAX]",
-      "url": "SNK Vs. Capcom - The Match of The Millennium (W) [T+Chi_JIAN TI&YULIANGMAX].zip",
-      "image": "SNK Vs. Capcom - The Match of The Millennium (W) [T+Chi_JIAN TI&YULIANGMAX].png"
-    },
-    {
-      "title": "Secret of Mana (U) [T+Rus_Shedevr]",
-      "url": "Secret of Mana (U) [T+Rus_Shedevr].zip",
-      "image": "Secret of Mana (U) [T+Rus_Shedevr].png"
-    },
-    {
-      "title": "Seiken Densetsu 3 (Japan, En)",
-      "url": "Seiken Densetsu 3 (Japan, En).zip",
-      "image": "Seiken Densetsu 3 (Japan, En).png"
-    },
-    {
-      "title": "Shonen Jump's - One Piece (U) [T+Rus_Vector]",
-      "url": "Shonen Jump's - One Piece (U) [T+Rus_Vector].zip",
-      "image": "Shonen Jump's - One Piece (U) [T+Rus_Vector].png"
-    },
-    {
-      "title": "Shonen Jump's - Shaman King - Master of Spirits (E) (M3) [T-Rus]",
-      "url": "Shonen Jump's - Shaman King - Master of Spirits (E) (M3) [T-Rus].zip",
-      "image": "Shonen Jump's - Shaman King - Master of Spirits (E) (M3) [T-Rus].png"
-    },
-    {
-      "title": "Sonic Advance (U) (M2) [T+Rus_MagicGame]",
-      "url": "Sonic Advance (U) (M2) [T+Rus_MagicGame].zip",
-      "image": "Sonic Advance (U) (M2) [T+Rus_MagicGame].png"
-    },
-    {
-      "title": "Sonic Advance 2 (U) (M6) [T+Rus_MagicGame]",
-      "url": "Sonic Advance 2 (U) (M6) [T+Rus_MagicGame].zip",
-      "image": "Sonic Advance 2 (U) (M6) [T+Rus_MagicGame].png"
-    },
-    {
-      "title": "Sonic Advance 3 (U) (M6) [T+Rus_MagicGame][p1]",
-      "url": "Sonic Advance 3 (U) (M6) [T+Rus_MagicGame][p1].zip",
-      "image": "Sonic Advance 3 (U) (M6) [T+Rus_MagicGame][p1].png"
-    },
-    {
-      "title": "Sonic The Hedgehog - Genesis (U) [T+Rus_MagicGame]",
-      "url": "Sonic The Hedgehog - Genesis (U) [T+Rus_MagicGame].zip",
-      "image": "Sonic The Hedgehog - Genesis (U) [T+Rus_MagicGame].png"
-    },
-    {
-      "title": "Sonic The Hedgehog - Pocket Adventure (W) [!]",
-      "url": "Sonic The Hedgehog - Pocket Adventure (W) [!].zip",
-      "image": "Sonic The Hedgehog - Pocket Adventure (W) [!].png"
-    },
-    {
-      "title": "Sonic and Knuckles",
-      "url": "Sonic and Knuckles.zip",
-      "image": "Sonic and Knuckles.png"
-    },
-    {
-      "title": "Spider-Man - Return of the Sinister Six [RUS]",
-      "url": "Spider-Man - Return of the Sinister Six [RUS].zip",
-      "image": "Spider-Man - Return of the Sinister Six [RUS].png"
-    },
-    {
-      "title": "SpongeBob SquarePants - Battle for Bikini Bottom [T+Rus_Pirate]",
-      "url": "SpongeBob SquarePants - Battle for Bikini Bottom [T+Rus_Pirate].zip",
-      "image": "SpongeBob SquarePants - Battle for Bikini Bottom [T+Rus_Pirate].png"
-    },
-    {
-      "title": "Spyro - Season of Ice (E) (M5) [T+Rus] (v2)",
-      "url": "Spyro - Season of Ice (E) (M5) [T+Rus] (v2).zip",
-      "image": "Spyro - Season of Ice (E) (M5) [T+Rus] (v2).png"
-    },
-    {
-      "title": "Street Fighter Alpha 2",
-      "url": "Street Fighter Alpha 2.zip",
-      "image": "Street Fighter Alpha 2.png"
-    },
-    {
-      "title": "Super BomberMan 4 (Japan, En)",
-      "url": "Super BomberMan 4 (Japan, En).zip",
-      "image": "Super BomberMan 4 (Japan, En).png"
-    },
-    {
-      "title": "Super BomberMan 5 (Japan)",
-      "url": "Super BomberMan 5 (Japan).zip",
-      "image": "Super BomberMan 5 (Japan).png"
-    },
-    {
-      "title": "Super Bomberman 2",
-      "url": "Super Bomberman 2.zip",
-      "image": "Super Bomberman 2.png"
-    },
-    {
-      "title": "Super Bomberman 3",
-      "url": "Super Bomberman 3.zip",
-      "image": "Super Bomberman 3.png"
-    },
-    {
-      "title": "Super Castlevania IV",
-      "url": "Super Castlevania IV.zip",
-      "image": "Super Castlevania IV.png"
-    },
-    {
-      "title": "Super Mario Advance (UE) [T+Rus1.1 Djinn(MagicGame) (02.05.2007)]",
-      "url": "Super Mario Advance (UE) [T+Rus1.1 Djinn(MagicGame) (02.05.2007)].zip",
-      "image": "Super Mario Advance (UE) [T+Rus1.1 Djinn(MagicGame) (02.05.2007)].png"
-    },
-    {
-      "title": "Super Mario Advance 2 - Super Mario World + Mario Brothers [T+Rus_NewGame]",
-      "url": "Super Mario Advance 2 - Super Mario World + Mario Brothers [T+Rus_NewGame].zip",
-      "image": "Super Mario Advance 2 - Super Mario World + Mario Brothers [T+Rus_NewGame].png"
-    },
-    {
-      "title": "Super Mario Advance 4 - Super Mario Bros. 3 [T+Rus_Pirate]",
-      "url": "Super Mario Advance 4 - Super Mario Bros. 3 [T+Rus_Pirate].zip",
-      "image": "Super Mario Advance 4 - Super Mario Bros. 3 [T+Rus_Pirate].png"
-    },
-    {
-      "title": "Super Mario Bros [Rus]",
-      "url": "Super Mario Bros [Rus].zip",
-      "image": "Super Mario Bros [Rus].png"
-    },
-    {
-      "title": "Super Mario Kart",
-      "url": "Super Mario Kart.zip",
-      "image": "Super Mario Kart.png"
-    },
-    {
-      "title": "Super Mario RPG - Legend of the Seven Stars [RUS]",
-      "url": "Super Mario RPG - Legend of the Seven Stars [RUS].zip",
-      "image": "Super Mario RPG - Legend of the Seven Stars [RUS].png"
-    },
-    {
-      "title": "Super Metroid (Japan, En)",
-      "url": "Super Metroid (Japan, En).zip",
-      "image": "Super Metroid (Japan, En).png"
-    },
-    {
-      "title": "TMNT - Tournament Fighters [RUS]",
-      "url": "TMNT - Tournament Fighters [RUS].zip",
-      "image": "TMNT - Tournament Fighters [RUS].png"
-    },
-    {
-      "title": "TMNT 3 - Manhattan Project [RUS]",
-      "url": "TMNT 3 - Manhattan Project [RUS].zip",
-      "image": "TMNT 3 - Manhattan Project [RUS].png"
-    },
-    {
-      "title": "TaleSpin [RUS]",
-      "url": "TaleSpin [RUS].zip",
-      "image": "TaleSpin [RUS].png"
-    },
-    {
-      "title": "Teenage Mutant Ninja Turtles - The Hyperstone Heist",
-      "url": "Teenage Mutant Ninja Turtles - The Hyperstone Heist.zip",
-      "image": "Teenage Mutant Ninja Turtles - The Hyperstone Heist.png"
-    },
-    {
-      "title": "Teenage Mutant Ninja Turtles 4 - Turtles in Time",
-      "url": "Teenage Mutant Ninja Turtles 4 - Turtles in Time.zip",
-      "image": "Teenage Mutant Ninja Turtles 4 - Turtles in Time.png"
-    },
-    {
-      "title": "Terminator 2 - Judgment Day [RUS]",
-      "url": "Terminator 2 - Judgment Day [RUS].zip",
-      "image": "Terminator 2 - Judgment Day [RUS].png"
-    },
-    {
-      "title": "Tetris (U) [T-Rus Cool-Spot]",
-      "url": "Tetris (U) [T-Rus Cool-Spot].zip",
-      "image": "Tetris (U) [T-Rus Cool-Spot].png"
-    },
-    {
-      "title": "Tetris Attack (Japan, En)",
-      "url": "Tetris Attack (Japan, En).zip",
-      "image": "Tetris Attack (Japan, En).png"
-    },
-    {
-      "title": "Tiny Toon Adventures 2 - Trouble in Wackyland [RUS]",
-      "url": "Tiny Toon Adventures 2 - Trouble in Wackyland [RUS].zip",
-      "image": "Tiny Toon Adventures 2 - Trouble in Wackyland [RUS].png"
-    },
-    {
-      "title": "Wario_Land_4",
-      "url": "Wario_Land_4.zip",
-      "image": "Wario_Land_4.png"
-    },
-    {
-      "title": "Worms Blast [T+Rus_Pirate]",
-      "url": "Worms Blast [T+Rus_Pirate].zip",
-      "image": "Worms Blast [T+Rus_Pirate].png"
-    },
-    {
-      "title": "Zelda II - The Adventure of Link (USA)",
-      "url": "Zelda II - The Adventure of Link (USA).zip",
-      "image": "Zelda II - The Adventure of Link (USA).png"
-    },
-    {
-      "title": "adventures-of-batman-and-robin",
-      "url": "adventures-of-batman-and-robin.zip",
-      "image": "adventures-of-batman-and-robin.png"
-    },
-    {
-      "title": "castlevania-bloodlines",
-      "url": "castlevania-bloodlines.zip",
-      "image": "castlevania-bloodlines.png"
-    },
-    {
-      "title": "mickey mania",
-      "url": "mickey mania.zip",
-      "image": "mickey mania.png"
-    },
-    {
-      "title": "spider-man-and-venom-maximum-carnage",
-      "url": "spider-man-and-venom-maximum-carnage.zip",
-      "image": "spider-man-and-venom-maximum-carnage.png"
-    },
-    {
-      "title": "super-mario-bros.-2-rus",
-      "url": "super-mario-bros.-2-rus.zip",
-      "image": "super-mario-bros.-2-rus.png"
-    },
-    {
-      "title": "super-mario-bros.-3-e-t-rus-by-2r-team-2r-team",
-      "url": "super-mario-bros.-3-e-t-rus-by-2r-team-2r-team.zip",
-      "image": "super-mario-bros.-3-e-t-rus-by-2r-team-2r-team.png"
-    },
-    {
-      "title": "teenage-mutant-ninja-turtles-rus",
-      "url": "teenage-mutant-ninja-turtles-rus.zip",
-      "image": "teenage-mutant-ninja-turtles-rus.png"
-    },
-    {
-      "title": "toy-story",
-      "url": "toy-story.zip",
-      "image": "toy-story.png"
-    },
-    {
-      "title": "ultimate-mortal-kombat-3",
-      "url": "ultimate-mortal-kombat-3.zip",
-      "image": "ultimate-mortal-kombat-3.png"
-    }
-  ]
-}
+[
+  {
+    "title": "Super Mario Bros [Rus]",
+    "sys": "nes",
+    "url": "Super Mario Bros [Rus].zip"
+  },
+  {
+    "title": "super-mario-bros.-2-rus",
+    "sys": "nes",
+    "url": "super-mario-bros.-2-rus.zip"
+  },
+  {
+    "title": "super-mario-bros.-3-e-t-rus-by-2r-team-2r-team",
+    "sys": "nes",
+    "url": "super-mario-bros.-3-e-t-rus-by-2r-team-2r-team.zip"
+  },
+  {
+    "title": "Zelda II - The Adventure of Link (USA)",
+    "sys": "nes",
+    "url": "Zelda II - The Adventure of Link (USA).zip"
+  },
+  {
+    "title": "Metroid [RUS]",
+    "sys": "nes",
+    "url": "Metroid [RUS].zip"
+  },
+  {
+    "title": "Castlevania II - Simon's Quest (USA)",
+    "sys": "nes",
+    "url": "Castlevania II - Simon's Quest (USA).zip"
+  },
+  {
+    "title": "Mega Man 2 [RUS]",
+    "sys": "nes",
+    "url": "Mega Man 2 [RUS].zip"
+  },
+  {
+    "title": "Mega Man 3 [RUS]",
+    "sys": "nes",
+    "url": "Mega Man 3 [RUS].zip"
+  },
+  {
+    "title": "Mega Man 4 [RUS]",
+    "sys": "nes",
+    "url": "Mega Man 4 [RUS].zip"
+  },
+  {
+    "title": "Mega Man 5 [RUS]",
+    "sys": "nes",
+    "url": "Mega Man 5 [RUS].zip"
+  },
+  {
+    "title": "Mega Man 6 [RUS]",
+    "sys": "nes",
+    "url": "Mega Man 6 [RUS].zip"
+  },
+  {
+    "title": "teenage-mutant-ninja-turtles-rus",
+    "sys": "nes",
+    "url": "teenage-mutant-ninja-turtles-rus.zip"
+  },
+  {
+    "title": "TMNT 3 - Manhattan Project [RUS]",
+    "sys": "nes",
+    "url": "TMNT 3 - Manhattan Project [RUS].zip"
+  },
+  {
+    "title": "Duck_Tales_2_Deluxe_2014_RUS_Fixed-27.01.2015",
+    "sys": "nes",
+    "url": "Duck_Tales_2_Deluxe_2014_RUS_Fixed-27.01.2015.zip"
+  },
+  {
+    "title": "Chip n Dale Rescue Rangers 2 (U) [T-Rus] [!] by Shedevr",
+    "sys": "nes",
+    "url": "Chip n Dale Rescue Rangers 2 (U) [T-Rus] [!] by Shedevr.zip"
+  },
+  {
+    "title": "Chip 'n Dale 2 [RUS]",
+    "sys": "nes",
+    "url": "Chip 'n Dale 2 [RUS].zip"
+  },
+  {
+    "title": "Darkwing Duck [RUS]",
+    "sys": "nes",
+    "url": "Darkwing Duck [RUS].zip"
+  },
+  {
+    "title": "TaleSpin [RUS]",
+    "sys": "nes",
+    "url": "TaleSpin [RUS].zip"
+  },
+  {
+    "title": "Tetris (U) [T-Rus Cool-Spot]",
+    "sys": "nes",
+    "url": "Tetris (U) [T-Rus Cool-Spot].zip"
+  },
+  {
+    "title": "Pac-Man [RUS]",
+    "sys": "nes",
+    "url": "Pac-Man [RUS].zip"
+  },
+  {
+    "title": "Batman - Return of the Joker [RUS]",
+    "sys": "nes",
+    "url": "Batman - Return of the Joker [RUS].zip"
+  },
+  {
+    "title": "Felix the Cat [RUS]",
+    "sys": "nes",
+    "url": "Felix the Cat [RUS].zip"
+  },
+  {
+    "title": "Tiny Toon Adventures 2 - Trouble in Wackyland [RUS]",
+    "sys": "nes",
+    "url": "Tiny Toon Adventures 2 - Trouble in Wackyland [RUS].zip"
+  },
+  {
+    "title": "Jungle Book [RUS]",
+    "sys": "nes",
+    "url": "Jungle Book [RUS].zip"
+  },
+  {
+    "title": "Monster in My Pocket [RUS]",
+    "sys": "nes",
+    "url": "Monster in My Pocket [RUS].zip"
+  },
+  {
+    "title": "Crystalis [RUS]",
+    "sys": "nes",
+    "url": "Crystalis [RUS].zip"
+  },
+  {
+    "title": "Bubble Bobble [RUS]",
+    "sys": "nes",
+    "url": "Bubble Bobble [RUS].zip"
+  },
+  {
+    "title": "Bubble Bobble Part 2",
+    "sys": "nes",
+    "url": "Bubble Bobble Part 2.zip"
+  },
+  {
+    "title": "Adventures of Lolo 2 [RUS]",
+    "sys": "nes",
+    "url": "Adventures of Lolo 2 [RUS].zip"
+  },
+  {
+    "title": "TMNT - Tournament Fighters [RUS]",
+    "sys": "nes",
+    "url": "TMNT - Tournament Fighters [RUS].zip"
+  },
+  {
+    "title": "Conquest of the Crystal Palace [RUS]",
+    "sys": "nes",
+    "url": "Conquest of the Crystal Palace [RUS].zip"
+  },
+  {
+    "title": "Donkey Kong 3 [RUS]",
+    "sys": "nes",
+    "url": "Donkey Kong 3 [RUS].zip"
+  },
+  {
+    "title": "Batman - The Video Game [RUS]",
+    "sys": "nes",
+    "url": "Batman - The Video Game [RUS].zip"
+  },
+  {
+    "title": "Spider-Man - Return of the Sinister Six [RUS]",
+    "sys": "nes",
+    "url": "Spider-Man - Return of the Sinister Six [RUS].zip"
+  },
+  {
+    "title": "RoboCop 2 [RUS]",
+    "sys": "nes",
+    "url": "RoboCop 2 [RUS].zip"
+  },
+  {
+    "title": "Bomberman (U) [T-Rus] [!]",
+    "sys": "nes",
+    "url": "Bomberman (U) [T-Rus] [!].zip"
+  },
+  {
+    "title": "Batman Returns [RUS]",
+    "sys": "nes",
+    "url": "Batman Returns [RUS].zip"
+  },
+  {
+    "title": "Double Dragon 3 - Sacred Stones, The [RUS]",
+    "sys": "nes",
+    "url": "Double Dragon 3 - Sacred Stones, The [RUS].zip"
+  },
+  {
+    "title": "Nightmare on Elm Street, A [RUS]",
+    "sys": "nes",
+    "url": "Nightmare on Elm Street, A [RUS].zip"
+  },
+  {
+    "title": "Bio Hazard (Unl) [T+Rus uBAH009+LANCUSTER (10.12.2019)]",
+    "sys": "nes",
+    "url": "Bio Hazard (Unl) [T+Rus uBAH009+LANCUSTER (10.12.2019)].zip"
+  },
+  {
+    "title": "Terminator 2 - Judgment Day [RUS]",
+    "sys": "nes",
+    "url": "Terminator 2 - Judgment Day [RUS].zip"
+  },
+  {
+    "title": "Legend of Zelda - Link to the Past (U) [T+Rus0.98.5 Chief-Net+MagicTeam (18.03.2009)]",
+    "sys": "snes",
+    "url": "Legend of Zelda - Link to the Past (U) [T+Rus0.98.5 Chief-Net+MagicTeam (18.03.2009)].zip"
+  },
+  {
+    "title": "Mega Man X (U) (V1.1) [!] [T+Rus by Tmax]",
+    "sys": "snes",
+    "url": "Mega Man X (U) (V1.1) [!] [T+Rus by Tmax].zip"
+  },
+  {
+    "title": "Battletoads & Double Dragon - The Ultimate Team (U) [!] [T+Rus_Shedevr] игру перевёл Gottax",
+    "sys": "snes",
+    "url": "Battletoads & Double Dragon - The Ultimate Team (U) [!] [T+Rus_Shedevr] игру перевёл Gottax.zip"
+  },
+  {
+    "title": "Final Fantasy III (U) (V1.0) [!] [T+Rus_Magic Team]",
+    "sys": "snes",
+    "url": "Final Fantasy III (U) (V1.0) [!] [T+Rus_Magic Team].zip"
+  },
+  {
+    "title": "Dr Mario (J) (NP) [T+Rus Multisoft (19.01.2010)]",
+    "sys": "snes",
+    "url": "Dr Mario (J) (NP) [T+Rus Multisoft (19.01.2010)].zip"
+  },
+  {
+    "title": "Donkey Kong Country (U) (V1.2) [T-Rus1.0 Chief-Net (31.12.2010)]",
+    "sys": "snes",
+    "url": "Donkey Kong Country (U) (V1.2) [T-Rus1.0 Chief-Net (31.12.2010)].zip"
+  },
+  {
+    "title": "Lion King (U) [T+Rus uBAH009 (12.06.2017)]",
+    "sys": "snes",
+    "url": "Lion King (U) [T+Rus uBAH009 (12.06.2017)].zip"
+  },
+  {
+    "title": "Aladdin (U) [T-Rus uBAH009 (07.03.2019)]",
+    "sys": "snes",
+    "url": "Aladdin (U) [T-Rus uBAH009 (07.03.2019)].zip"
+  },
+  {
+    "title": "Bishoujo Senshi Sailor Moon - Another Story (J) [T-Rus GrekRus (11.12.2013)]",
+    "sys": "snes",
+    "url": "Bishoujo Senshi Sailor Moon - Another Story (J) [T-Rus GrekRus (11.12.2013)].zip"
+  },
+  {
+    "title": "Final Fantasy II (U) (V1.1) [T+Rus Borisov (04.06.2010)]",
+    "sys": "snes",
+    "url": "Final Fantasy II (U) (V1.1) [T+Rus Borisov (04.06.2010)].zip"
+  },
+  {
+    "title": "Super Metroid (Japan, En)",
+    "sys": "snes",
+    "url": "Super Metroid (Japan, En).zip"
+  },
+  {
+    "title": "Secret of Mana (U) [T+Rus_Shedevr]",
+    "sys": "snes",
+    "url": "Secret of Mana (U) [T+Rus_Shedevr].zip"
+  },
+  {
+    "title": "Super Mario Kart",
+    "sys": "snes",
+    "url": "Super Mario Kart.zip"
+  },
+  {
+    "title": "Super Mario RPG - Legend of the Seven Stars [RUS]",
+    "sys": "snes",
+    "url": "Super Mario RPG - Legend of the Seven Stars [RUS].zip"
+  },
+  {
+    "title": "Majin Tensei 2 - Spiral Nemesis (Japan, En)",
+    "sys": "snes",
+    "url": "Majin Tensei 2 - Spiral Nemesis (Japan, En).zip"
+  },
+  {
+    "title": "Flashback - The Quest for Identity (E) (M2) [T+Rus v0.10_Dennis]",
+    "sys": "snes",
+    "url": "Flashback - The Quest for Identity (E) (M2) [T+Rus v0.10_Dennis].zip"
+  },
+  {
+    "title": "Home Alone 2 - Lost in New York (U) [T-Rus uBAH009 (14.06.2017)]",
+    "sys": "snes",
+    "url": "Home Alone 2 - Lost in New York (U) [T-Rus uBAH009 (14.06.2017)].zip"
+  },
+  {
+    "title": "Mega Man X2 [RUS]",
+    "sys": "snes",
+    "url": "Mega Man X2 [RUS].zip"
+  },
+  {
+    "title": "Mega Man X3 [RUS]",
+    "sys": "snes",
+    "url": "Mega Man X3 [RUS].zip"
+  },
+  {
+    "title": "Mega Man 7 [RUS]",
+    "sys": "snes",
+    "url": "Mega Man 7 [RUS].zip"
+  },
+  {
+    "title": "Castlevania - Dracula X",
+    "sys": "snes",
+    "url": "Castlevania - Dracula X.zip"
+  },
+  {
+    "title": "Super Castlevania IV",
+    "sys": "snes",
+    "url": "Super Castlevania IV.zip"
+  },
+  {
+    "title": "Contra III - The Alien Wars",
+    "sys": "snes",
+    "url": "Contra III - The Alien Wars.zip"
+  },
+  {
+    "title": "Mortal Kombat II",
+    "sys": "snes",
+    "url": "Mortal Kombat II.zip"
+  },
+  {
+    "title": "Mortal Kombat 3",
+    "sys": "snes",
+    "url": "Mortal Kombat 3.zip"
+  },
+  {
+    "title": "Teenage Mutant Ninja Turtles 4 - Turtles in Time",
+    "sys": "snes",
+    "url": "Teenage Mutant Ninja Turtles 4 - Turtles in Time.zip"
+  },
+  {
+    "title": "Magical Quest Starring Mickey Mouse, The",
+    "sys": "snes",
+    "url": "Magical Quest Starring Mickey Mouse, The.zip"
+  },
+  {
+    "title": "Goof Troop (U) [T-Rus uBAH009 (29.03.2019)]",
+    "sys": "snes",
+    "url": "Goof Troop (U) [T-Rus uBAH009 (29.03.2019)].zip"
+  },
+  {
+    "title": "Tetris Attack (Japan, En)",
+    "sys": "snes",
+    "url": "Tetris Attack (Japan, En).zip"
+  },
+  {
+    "title": "Super BomberMan 4 (Japan, En)",
+    "sys": "snes",
+    "url": "Super BomberMan 4 (Japan, En).zip"
+  },
+  {
+    "title": "Super Bomberman 2",
+    "sys": "snes",
+    "url": "Super Bomberman 2.zip"
+  },
+  {
+    "title": "Super Bomberman 3",
+    "sys": "snes",
+    "url": "Super Bomberman 3.zip"
+  },
+  {
+    "title": "Super BomberMan 5 (Japan)",
+    "sys": "snes",
+    "url": "Super BomberMan 5 (Japan).zip"
+  },
+  {
+    "title": "Legend of the Mystical Ninja, The",
+    "sys": "snes",
+    "url": "Legend of the Mystical Ninja, The.zip"
+  },
+  {
+    "title": "Biker Mice from Mars",
+    "sys": "snes",
+    "url": "Biker Mice from Mars.zip"
+  },
+  {
+    "title": "Ogre Battle - The March of the Black Queen",
+    "sys": "snes",
+    "url": "Ogre Battle - The March of the Black Queen.zip"
+  },
+  {
+    "title": "Dragon Quest 5 - Tenkuu no Hanayome (Japan, En)",
+    "sys": "snes",
+    "url": "Dragon Quest 5 - Tenkuu no Hanayome (Japan, En).zip"
+  },
+  {
+    "title": "Dragon Quest 6 - Maboroshi no Daichi (Japan, En)",
+    "sys": "snes",
+    "url": "Dragon Quest 6 - Maboroshi no Daichi (Japan, En).zip"
+  },
+  {
+    "title": "Seiken Densetsu 3 (Japan, En)",
+    "sys": "snes",
+    "url": "Seiken Densetsu 3 (Japan, En).zip"
+  },
+  {
+    "title": "Street Fighter Alpha 2",
+    "sys": "snes",
+    "url": "Street Fighter Alpha 2.zip"
+  },
+  {
+    "title": "Pink Panther in Pink Goes to Hollywood",
+    "sys": "snes",
+    "url": "Pink Panther in Pink Goes to Hollywood.zip"
+  },
+  {
+    "title": "Pokemon - Emerald Version (UE) [T+Rus0.9b_kozzztya]",
+    "sys": "gba",
+    "url": "Pokemon - Emerald Version (UE) [T+Rus0.9b_kozzztya].zip"
+  },
+  {
+    "title": "Pokemon - Sapphire Version (U) [T+Rus_Gektor]",
+    "sys": "gba",
+    "url": "Pokemon - Sapphire Version (U) [T+Rus_Gektor].zip"
+  },
+  {
+    "title": "Legend of Zelda, The - The Minish Cap (U) [T+Rus1.0_Shedevr] (ZELDA64RUS)",
+    "sys": "gba",
+    "url": "Legend of Zelda, The - The Minish Cap (U) [T+Rus1.0_Shedevr] (ZELDA64RUS).zip"
+  },
+  {
+    "title": "Metroid Fusion (U) [T+Rus1.0_Shedevr]",
+    "sys": "gba",
+    "url": "Metroid Fusion (U) [T+Rus1.0_Shedevr].zip"
+  },
+  {
+    "title": "Metroid - Zero Mission (U) [T+Rus1.0_Shedevr]",
+    "sys": "gba",
+    "url": "Metroid - Zero Mission (U) [T+Rus1.0_Shedevr].zip"
+  },
+  {
+    "title": "Castlevania - Aria of Sorrow (U) [T+Rus1.0_Shedevr]",
+    "sys": "gba",
+    "url": "Castlevania - Aria of Sorrow (U) [T+Rus1.0_Shedevr].zip"
+  },
+  {
+    "title": "Castlevania - Circle of the Moon (U) [T+Rus1.0_Magic Team]",
+    "sys": "gba",
+    "url": "Castlevania - Circle of the Moon (U) [T+Rus1.0_Magic Team].zip"
+  },
+  {
+    "title": "Castlevania - Harmony of Dissonance (E) [T+Rus1.2_Chief-NET]",
+    "sys": "gba",
+    "url": "Castlevania - Harmony of Dissonance (E) [T+Rus1.2_Chief-NET].zip"
+  },
+  {
+    "title": "Golden Sun (UE) [T+Rus_DobryeLudi]",
+    "sys": "gba",
+    "url": "Golden Sun (UE) [T+Rus_DobryeLudi].zip"
+  },
+  {
+    "title": "Mario_Luigi_Superstar_Saga",
+    "sys": "gba",
+    "url": "Mario_Luigi_Superstar_Saga.zip"
+  },
+  {
+    "title": "Mario_Kart_Super_Circuit",
+    "sys": "gba",
+    "url": "Mario_Kart_Super_Circuit.zip"
+  },
+  {
+    "title": "Wario_Land_4",
+    "sys": "gba",
+    "url": "Wario_Land_4.zip"
+  },
+  {
+    "title": "Monsters Inc. (U) [T+Rus_MagicGame]",
+    "sys": "gba",
+    "url": "Monsters Inc. (U) [T+Rus_MagicGame].zip"
+  },
+  {
+    "title": "Final_Fantasy_Tactics_Advance",
+    "sys": "gba",
+    "url": "Final_Fantasy_Tactics_Advance.zip"
+  },
+  {
+    "title": "Megaman Zero (U) [T+Rus1.01_Shedevr]",
+    "sys": "gba",
+    "url": "Megaman Zero (U) [T+Rus1.01_Shedevr].zip"
+  },
+  {
+    "title": "Super Mario Advance (UE) [T+Rus1.1 Djinn(MagicGame) (02.05.2007)]",
+    "sys": "gba",
+    "url": "Super Mario Advance (UE) [T+Rus1.1 Djinn(MagicGame) (02.05.2007)].zip"
+  },
+  {
+    "title": "Super Mario Advance 2 - Super Mario World + Mario Brothers [T+Rus_NewGame]",
+    "sys": "gba",
+    "url": "Super Mario Advance 2 - Super Mario World + Mario Brothers [T+Rus_NewGame].zip"
+  },
+  {
+    "title": "Super Mario Advance 4 - Super Mario Bros. 3 [T+Rus_Pirate]",
+    "sys": "gba",
+    "url": "Super Mario Advance 4 - Super Mario Bros. 3 [T+Rus_Pirate].zip"
+  },
+  {
+    "title": "Sonic Advance (U) (M2) [T+Rus_MagicGame]",
+    "sys": "gba",
+    "url": "Sonic Advance (U) (M2) [T+Rus_MagicGame].zip"
+  },
+  {
+    "title": "Sonic Advance 2 (U) (M6) [T+Rus_MagicGame]",
+    "sys": "gba",
+    "url": "Sonic Advance 2 (U) (M6) [T+Rus_MagicGame].zip"
+  },
+  {
+    "title": "Sonic Advance 3 (U) (M6) [T+Rus_MagicGame][p1]",
+    "sys": "gba",
+    "url": "Sonic Advance 3 (U) (M6) [T+Rus_MagicGame][p1].zip"
+  },
+  {
+    "title": "Gunstar Super Heroes (U) [T+Rus_Kudos]",
+    "sys": "gba",
+    "url": "Gunstar Super Heroes (U) [T+Rus_Kudos].zip"
+  },
+  {
+    "title": "Rayman Advance [T+Rus_MagicGame]",
+    "sys": "gba",
+    "url": "Rayman Advance [T+Rus_MagicGame].zip"
+  },
+  {
+    "title": "Need for Speed - Underground (UE) (M4) [T+Rus_MagicGame]",
+    "sys": "gba",
+    "url": "Need for Speed - Underground (UE) (M4) [T+Rus_MagicGame].zip"
+  },
+  {
+    "title": "Shonen Jump's - One Piece (U) [T+Rus_Vector]",
+    "sys": "gba",
+    "url": "Shonen Jump's - One Piece (U) [T+Rus_Vector].zip"
+  },
+  {
+    "title": "Shonen Jump's - Shaman King - Master of Spirits (E) (M3) [T-Rus]",
+    "sys": "gba",
+    "url": "Shonen Jump's - Shaman King - Master of Spirits (E) (M3) [T-Rus].zip"
+  },
+  {
+    "title": "Grand Theft Auto Advance (E) (M5) [T-Rus_Kudos]",
+    "sys": "gba",
+    "url": "Grand Theft Auto Advance (E) (M5) [T-Rus_Kudos].zip"
+  },
+  {
+    "title": "SpongeBob SquarePants - Battle for Bikini Bottom [T+Rus_Pirate]",
+    "sys": "gba",
+    "url": "SpongeBob SquarePants - Battle for Bikini Bottom [T+Rus_Pirate].zip"
+  },
+  {
+    "title": "Crash Bandicoot - The Huge Adventure (U) [T+Rus_MagicGame]",
+    "sys": "gba",
+    "url": "Crash Bandicoot - The Huge Adventure (U) [T+Rus_MagicGame].zip"
+  },
+  {
+    "title": "Pokemon - Fire Red Version (U) [T+Rus_Shedevr]",
+    "sys": "gba",
+    "url": "Pokemon - Fire Red Version (U) [T+Rus_Shedevr].zip"
+  },
+  {
+    "title": "Donkey Kong Country 2 (U) [T+Rus_MagicGame]",
+    "sys": "gba",
+    "url": "Donkey Kong Country 2 (U) [T+Rus_MagicGame].zip"
+  },
+  {
+    "title": "Worms Blast [T+Rus_Pirate]",
+    "sys": "gba",
+    "url": "Worms Blast [T+Rus_Pirate].zip"
+  },
+  {
+    "title": "Harry Potter and The Chamber of Secrets  (UE) (M12) [T+Rus1.4_MagicGame][18.01.2013]",
+    "sys": "gba",
+    "url": "Harry Potter and The Chamber of Secrets  (UE) (M12) [T+Rus1.4_MagicGame][18.01.2013].zip"
+  },
+  {
+    "title": "Rayman - Raving Rabbids (U) (M3) [T+Rus_UniGame]",
+    "sys": "gba",
+    "url": "Rayman - Raving Rabbids (U) (M3) [T+Rus_UniGame].zip"
+  },
+  {
+    "title": "Spyro - Season of Ice (E) (M5) [T+Rus] (v2)",
+    "sys": "gba",
+    "url": "Spyro - Season of Ice (E) (M5) [T+Rus] (v2).zip"
+  },
+  {
+    "title": "Earthworm Jim 2 (E) (M5) [T+Rus]",
+    "sys": "gba",
+    "url": "Earthworm Jim 2 (E) (M5) [T+Rus].zip"
+  },
+  {
+    "title": "Sonic The Hedgehog - Genesis (U) [T+Rus_MagicGame]",
+    "sys": "gba",
+    "url": "Sonic The Hedgehog - Genesis (U) [T+Rus_MagicGame].zip"
+  },
+  {
+    "title": "FF_Shantae_Advance_RUS",
+    "sys": "gba",
+    "url": "FF_Shantae_Advance_RUS.zip"
+  },
+  {
+    "title": "Bust-A-Move Pocket (UE) (Prototype)",
+    "sys": "ngp",
+    "url": "Bust-A-Move Pocket (UE) (Prototype).zip"
+  },
+  {
+    "title": "SNK Vs. Capcom - The Match of The Millennium (W) [T+Chi_JIAN TI&YULIANGMAX]",
+    "sys": "ngp",
+    "url": "SNK Vs. Capcom - The Match of The Millennium (W) [T+Chi_JIAN TI&YULIANGMAX].zip"
+  },
+  {
+    "title": "Sonic The Hedgehog - Pocket Adventure (W) [!]",
+    "sys": "ngp",
+    "url": "Sonic The Hedgehog - Pocket Adventure (W) [!].zip"
+  },
+  {
+    "title": "Baseball Stars Color (W) [!]",
+    "sys": "ngp",
+    "url": "Baseball Stars Color (W) [!].zip"
+  },
+  {
+    "title": "Big Bang Pro Wrestling (W) [!]",
+    "sys": "ngp",
+    "url": "Big Bang Pro Wrestling (W) [!].zip"
+  },
+  {
+    "title": "Dark Arms - Beast Buster 1999 (W) [!]",
+    "sys": "ngp",
+    "url": "Dark Arms - Beast Buster 1999 (W) [!].zip"
+  },
+  {
+    "title": "Biomotor Unitron (UE) [!]",
+    "sys": "ngp",
+    "url": "Biomotor Unitron (UE) [!].zip"
+  },
+  {
+    "title": "Faselei! (UE)",
+    "sys": "ngp",
+    "url": "Faselei! (UE).zip"
+  },
+  {
+    "title": "Evolution - Eternal Dungeons (U) [T+Fre0.3_Fry]",
+    "sys": "ngp",
+    "url": "Evolution - Eternal Dungeons (U) [T+Fre0.3_Fry].zip"
+  },
+  {
+    "title": "Cotton - Fantastic Night Dreams (As)",
+    "sys": "ngp",
+    "url": "Cotton - Fantastic Night Dreams (As).zip"
+  },
+  {
+    "title": "Rockman Battle & Fighters (J) [T-Eng0.05_LFont]",
+    "sys": "ngp",
+    "url": "Rockman Battle & Fighters (J) [T-Eng0.05_LFont].zip"
+  },
+  {
+    "title": "Delta Warp (J) [!]",
+    "sys": "ngp",
+    "url": "Delta Warp (J) [!].zip"
+  },
+  {
+    "title": "ultimate-mortal-kombat-3",
+    "sys": "smd",
+    "url": "ultimate-mortal-kombat-3.zip"
+  },
+  {
+    "title": "adventures-of-batman-and-robin",
+    "sys": "smd",
+    "url": "adventures-of-batman-and-robin.zip"
+  },
+  {
+    "title": "spider-man-and-venom-maximum-carnage",
+    "sys": "smd",
+    "url": "spider-man-and-venom-maximum-carnage.zip"
+  },
+  {
+    "title": "Sonic and Knuckles",
+    "sys": "smd",
+    "url": "Sonic and Knuckles.zip"
+  },
+  {
+    "title": "castlevania-bloodlines",
+    "sys": "smd",
+    "url": "castlevania-bloodlines.zip"
+  },
+  {
+    "title": "toy-story",
+    "sys": "smd",
+    "url": "toy-story.zip"
+  },
+  {
+    "title": "mickey mania",
+    "sys": "smd",
+    "url": "mickey mania.zip"
+  },
+  {
+    "title": "Boogerman",
+    "sys": "smd",
+    "url": "Boogerman.zip"
+  },
+  {
+    "title": "Teenage Mutant Ninja Turtles - The Hyperstone Heist",
+    "sys": "smd",
+    "url": "Teenage Mutant Ninja Turtles - The Hyperstone Heist.zip"
+  }
+]
